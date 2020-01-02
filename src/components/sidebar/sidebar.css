@@ -1,0 +1,9 @@
+.container {
+  box-shadow: 2px 0 4px -2px #888;
+  height: 100vh;
+}
+
+.searchBar {
+  padding: 2vh !important;
+  background: #dcdcdc;
+}
